@@ -1,0 +1,7 @@
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.BO\bin\Debug\SpencerFA.BO.dll
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.BO\bin\Debug\SpencerFA.BO.pdb
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.BO\obj\Debug\SpencerFA.BO.csproj.AssemblyReference.cache
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.BO\obj\Debug\SpencerFA.BO.csproj.CoreCompileInputs.cache
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.BO\obj\Debug\SpencerFA.BO.dll
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.BO\obj\Debug\SpencerFA.BO.pdb
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.BO\bin\Debug\SpencerFA.BO.dll.config

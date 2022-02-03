@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase FMNCZAUO-->
+<!--DeliveryAddress: Mexico City, Mexico-->
+<Products>
+  <Product>
+    <ID>XM3</ID>
+    <Name>Mistletoe</Name>
+    <Price>1000</Price>
+    <Description>Get a kiss under the mistletoe.</Description>
+    <Quantity>10</Quantity>
+    <Total>10000</Total>
+  </Product>
+  <Product>
+    <ID>XM1</ID>
+    <Name>Christmas flowers</Name>
+    <Price>300</Price>
+    <Description>Receive christmas with flowers.</Description>
+    <Quantity>4</Quantity>
+    <Total>1200</Total>
+  </Product>
+  <Product>
+    <ID>000</ID>
+    <Name>Roses</Name>
+    <Price>21</Price>
+    <Description>Red Roses</Description>
+    <Quantity>100</Quantity>
+    <Total>2100</Total>
+  </Product>
+</Products>

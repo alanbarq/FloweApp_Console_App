@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase PEEE-->
+<Products>
+  <Product>
+    <ID>XM2</ID>
+    <Name>Christmas tree</Name>
+    <Price>800</Price>
+    <Description>A lovely and natural christmas tree.</Description>
+    <Quantity>5</Quantity>
+    <Total>4000</Total>
+  </Product>
+  <Product>
+    <ID>002</ID>
+    <Name>Margaritas</Name>
+    <Price>27.5</Price>
+    <Description>The best margaritas ever.</Description>
+    <Quantity>3</Quantity>
+    <Total>82.5</Total>
+  </Product>
+  <Product>
+    <ID>101</ID>
+    <Name>Ballons</Name>
+    <Price>40</Price>
+    <Description>Personalized ballons.</Description>
+    <Quantity>7</Quantity>
+    <Total>280</Total>
+  </Product>
+</Products>

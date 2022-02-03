@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase PMKJYM-->
+<!--DeliveryAddress: Mexico City, Mexico-->
+<Products>
+  <Product>
+    <ID>XM3</ID>
+    <Name>Mistletoe</Name>
+    <Price>1000</Price>
+    <Description>Get a kiss under the mistletoe.</Description>
+    <Quantity>3</Quantity>
+    <Total>3000</Total>
+  </Product>
+</Products>

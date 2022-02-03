@@ -1,0 +1,10 @@
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.DL\bin\Debug\SpencerFA.DL.dll
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.DL\bin\Debug\SpencerFA.DL.pdb
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.DL\bin\Debug\SpencerFA.BO.dll
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.DL\bin\Debug\SpencerFA.BO.pdb
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.DL\obj\Debug\SpencerFA.DL.csproj.AssemblyReference.cache
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.DL\obj\Debug\SpencerFA.DL.csproj.CoreCompileInputs.cache
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.DL\obj\Debug\SpencerFA.DL.csproj.CopyComplete
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.DL\obj\Debug\SpencerFA.DL.dll
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.DL\obj\Debug\SpencerFA.DL.pdb
+C:\Users\erick.barlandas\source\repos\FlowerStore\SpencerFA.DL\bin\Debug\SpencerFA.BO.dll.config

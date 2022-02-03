@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase QZPZVXPAD-->
+<Products>
+  <Product>
+    <ID>001</ID>
+    <Name>Daisies</Name>
+    <Price>36</Price>
+    <Description>Yellow Daisies.</Description>
+    <Quantity>4</Quantity>
+    <Total>144</Total>
+  </Product>
+  <Product>
+    <ID>000</ID>
+    <Name>Roses</Name>
+    <Price>100</Price>
+    <Description>This are pink roses.</Description>
+    <Quantity>5</Quantity>
+    <Total>500</Total>
+  </Product>
+</Products>

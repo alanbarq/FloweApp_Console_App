@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Products of the stores-->
+<Products>
+  <Product ID="000">
+    <ID>000</ID>
+    <Name>Roses</Name>
+    <Price>21</Price>
+    <Description>Red Roses</Description>
+  </Product>
+  <Product ID="001">
+    <ID>001</ID>
+    <Name>Daisies</Name>
+    <Price>36</Price>
+    <Description>Yellow Daisies.</Description>
+  </Product>
+  <Product ID="002">
+    <ID>002</ID>
+    <Name>Margaritas</Name>
+    <Price>27.5</Price>
+    <Description>The best margaritas ever.</Description>
+  </Product>
+  <Product ID="FL1">
+    <ID>FL1</ID>
+    <Name>Lotus Flower</Name>
+    <Price>1000</Price>
+    <Description>An ancient flower from Asia </Description>
+  </Product>
+  <Product ID="FL3">
+    <ID>FL3</ID>
+    <Name>Mantis</Name>
+    <Price>300</Price>
+    <Description>Lovely mantis flower form</Description>
+  </Product>
+</Products>

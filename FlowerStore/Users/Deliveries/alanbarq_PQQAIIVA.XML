@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase PQQAIIVA-->
+<Products>
+  <Product>
+    <ID>FL1</ID>
+    <Name>Lotus Flower</Name>
+    <Price>2000</Price>
+    <Description>An ancient flower from Asia </Description>
+    <Quantity>3</Quantity>
+    <Total>6000</Total>
+  </Product>
+  <Product>
+    <ID>102</ID>
+    <Name>Gift Card</Name>
+    <Price>100</Price>
+    <Description>Buy a gift card for your lovely one.</Description>
+    <Quantity>2</Quantity>
+    <Total>200</Total>
+  </Product>
+  <Product>
+    <ID>XM3</ID>
+    <Name>Mistletoe</Name>
+    <Price>1000</Price>
+    <Description>Get a kiss under the mistletoe.</Description>
+    <Quantity>3</Quantity>
+    <Total>3000</Total>
+  </Product>
+</Products>

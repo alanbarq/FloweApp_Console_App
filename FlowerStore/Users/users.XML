@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Registered users-->
+<Users>
+  <User>
+    <Name>Alan</Name>
+    <LastName>Barlandas</LastName>
+    <Username>alanbarq</Username>
+    <Password>alanbarq05.</Password>
+    <Mail>alanbar05@gmail.com</Mail>
+    <Telephone>7471081430</Telephone>
+    <Address>Mexico City, Mexico</Address>
+  </User>
+  <User>
+    <Name>erika</Name>
+    <LastName>barlandas</LastName>
+    <Username>erikabar</Username>
+    <Password>erika28.</Password>
+    <Mail>barlandas@gmail.com</Mail>
+    <Telephone>5563195447</Telephone>
+    <Address>Mexico 11</Address>
+  </User>
+  <User>
+    <Name>Braulio</Name>
+    <LastName>Fernandez</LastName>
+    <Username>braumoon05.</Username>
+    <Password>braumoon05.</Password>
+    <Mail>braulio@gmail.com</Mail>
+    <Telephone>5588049822</Telephone>
+    <Address>AAAAAAAAAAAAAAAAAAAAA</Address>
+  </User>
+</Users>

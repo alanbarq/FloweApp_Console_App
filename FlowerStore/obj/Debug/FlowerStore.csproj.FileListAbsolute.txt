@@ -1,0 +1,15 @@
+C:\Users\erick.barlandas\source\repos\FlowerStore\bin\Debug\FlowerStore.exe.config
+C:\Users\erick.barlandas\source\repos\FlowerStore\bin\Debug\FlowerStore.exe
+C:\Users\erick.barlandas\source\repos\FlowerStore\bin\Debug\FlowerStore.pdb
+C:\Users\erick.barlandas\source\repos\FlowerStore\bin\Debug\SpencerFA.BO.dll
+C:\Users\erick.barlandas\source\repos\FlowerStore\bin\Debug\SpencerFA.SL.dll
+C:\Users\erick.barlandas\source\repos\FlowerStore\bin\Debug\SpencerFA.DL.dll
+C:\Users\erick.barlandas\source\repos\FlowerStore\bin\Debug\SpencerFA.SL.pdb
+C:\Users\erick.barlandas\source\repos\FlowerStore\bin\Debug\SpencerFA.BO.pdb
+C:\Users\erick.barlandas\source\repos\FlowerStore\bin\Debug\SpencerFA.DL.pdb
+C:\Users\erick.barlandas\source\repos\FlowerStore\obj\Debug\FlowerStore.csproj.AssemblyReference.cache
+C:\Users\erick.barlandas\source\repos\FlowerStore\obj\Debug\FlowerStore.csproj.CoreCompileInputs.cache
+C:\Users\erick.barlandas\source\repos\FlowerStore\obj\Debug\FlowerStore.csproj.CopyComplete
+C:\Users\erick.barlandas\source\repos\FlowerStore\obj\Debug\FlowerStore.exe
+C:\Users\erick.barlandas\source\repos\FlowerStore\obj\Debug\FlowerStore.pdb
+C:\Users\erick.barlandas\source\repos\FlowerStore\bin\Debug\SpencerFA.BO.dll.config

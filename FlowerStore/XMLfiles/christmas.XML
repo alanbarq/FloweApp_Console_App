@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Products of the stores-->
+<Products>
+  <Product ID="MX3">
+    <ID>MX3</ID>
+    <Name>Christmas lights</Name>
+    <Price>200</Price>
+    <Description>Underneath the christmas lights.</Description>
+  </Product>
+  <Product ID="XM1">
+    <ID>XM1</ID>
+    <Name>Christmas flowers</Name>
+    <Price>300</Price>
+    <Description>Receive christmas with flowers.</Description>
+  </Product>
+  <Product ID="XM2">
+    <ID>XM2</ID>
+    <Name>Christmas tree</Name>
+    <Price>800</Price>
+    <Description>A lovely and natural christmas tree.</Description>
+  </Product>
+  <Product ID="XM3">
+    <ID>XM3</ID>
+    <Name>Mistletoe</Name>
+    <Price>1000</Price>
+    <Description>Get a kiss under the mistletoe.</Description>
+  </Product>
+</Products>

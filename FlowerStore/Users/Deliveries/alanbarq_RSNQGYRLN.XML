@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase RSNQGYRLN-->
+<!--DeliveryAddress: Mexico City, Mexico-->
+<Products>
+  <Product>
+    <ID>XM3</ID>
+    <Name>Mistletoe</Name>
+    <Price>1000</Price>
+    <Description>Get a kiss under the mistletoe.</Description>
+    <Quantity>3</Quantity>
+    <Total>3000</Total>
+  </Product>
+  <Product>
+    <ID>101</ID>
+    <Name>Ballons</Name>
+    <Price>40</Price>
+    <Description>Personalized ballons.</Description>
+    <Quantity>4</Quantity>
+    <Total>160</Total>
+  </Product>
+  <Product>
+    <ID>WN1</ID>
+    <Name>Wine</Name>
+    <Price>500</Price>
+    <Description>Wine From Italy</Description>
+    <Quantity>10</Quantity>
+    <Total>5000</Total>
+  </Product>
+  <Product>
+    <ID>001</ID>
+    <Name>Daisies</Name>
+    <Price>36</Price>
+    <Description>Yellow Daisies.</Description>
+    <Quantity>10</Quantity>
+    <Total>360</Total>
+  </Product>
+</Products>

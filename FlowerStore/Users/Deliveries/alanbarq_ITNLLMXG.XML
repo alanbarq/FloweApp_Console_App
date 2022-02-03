@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase ITNLLMXG-->
+<Products>
+  <Product>
+    <ID>XM3</ID>
+    <Name>Mistletoe</Name>
+    <Price>1000</Price>
+    <Description>Get a kiss under the mistletoe.</Description>
+    <Quantity>3</Quantity>
+    <Total>3000</Total>
+  </Product>
+  <Product>
+    <ID>001</ID>
+    <Name>Daisies</Name>
+    <Price>36</Price>
+    <Description>Yellow Daisies.</Description>
+    <Quantity>5</Quantity>
+    <Total>180</Total>
+  </Product>
+</Products>

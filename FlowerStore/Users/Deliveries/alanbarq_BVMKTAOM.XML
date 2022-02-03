@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase BVMKTAOM-->
+<Products>
+  <Product>
+    <ID>002</ID>
+    <Name>Margaritas</Name>
+    <Price>27.5</Price>
+    <Description>The best margaritas ever.</Description>
+    <Quantity>7</Quantity>
+    <Total>192.5</Total>
+  </Product>
+  <Product>
+    <ID>101</ID>
+    <Name>Ballons</Name>
+    <Price>40</Price>
+    <Description>Personalized ballons.</Description>
+    <Quantity>5</Quantity>
+    <Total>200</Total>
+  </Product>
+  <Product>
+    <ID>GF2</ID>
+    <Name>Cookies</Name>
+    <Price>23</Price>
+    <Description>The best cookies of the town</Description>
+    <Quantity>27</Quantity>
+    <Total>621</Total>
+  </Product>
+  <Product>
+    <ID>XM3</ID>
+    <Name>Mistletoe</Name>
+    <Price>1000</Price>
+    <Description>Get a kiss under the mistletoe.</Description>
+    <Quantity>8</Quantity>
+    <Total>8000</Total>
+  </Product>
+  <Product>
+    <ID>000</ID>
+    <Name>Roses</Name>
+    <Price>100</Price>
+    <Description>This are pink roses.</Description>
+    <Quantity>7</Quantity>
+    <Total>700</Total>
+  </Product>
+</Products>

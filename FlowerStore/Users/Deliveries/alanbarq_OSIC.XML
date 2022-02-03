@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase OSIC-->
+<!--DeliveryAddress: Mexico City, Mexico-->
+<Products>
+  <Product>
+    <ID>FL1</ID>
+    <Name>Lotus Flower</Name>
+    <Price>1000</Price>
+    <Description>An ancient flower from Asia </Description>
+    <Quantity>6</Quantity>
+    <Total>6000</Total>
+  </Product>
+  <Product>
+    <ID>XM3</ID>
+    <Name>Mistletoe</Name>
+    <Price>1000</Price>
+    <Description>Get a kiss under the mistletoe.</Description>
+    <Quantity>10</Quantity>
+    <Total>10000</Total>
+  </Product>
+</Products>

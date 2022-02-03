@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase XLDYBXI-->
+<Products>
+  <Product>
+    <ID>GF2</ID>
+    <Name>Cookies</Name>
+    <Price>23</Price>
+    <Description>The best cookies of the town</Description>
+    <Quantity>3</Quantity>
+    <Total>69</Total>
+  </Product>
+</Products>

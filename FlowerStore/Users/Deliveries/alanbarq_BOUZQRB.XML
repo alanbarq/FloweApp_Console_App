@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase BOUZQRB-->
+<Products>
+  <Product>
+    <ID>XM2</ID>
+    <Name>Christmas tree</Name>
+    <Price>800</Price>
+    <Description>A lovely and natural christmas tree.</Description>
+    <Quantity>4</Quantity>
+    <Total>3200</Total>
+  </Product>
+  <Product>
+    <ID>100</ID>
+    <Name>Teddy Bear</Name>
+    <Price>600</Price>
+    <Description>A lovely teddy bear.</Description>
+    <Quantity>2</Quantity>
+    <Total>1200</Total>
+  </Product>
+</Products>

@@ -1,0 +1,3 @@
+XM1,Christmas flowers,300,Receive christmas with flowers.
+XM2,Christmas tree,800,A lovely and natural christmas tree.
+XM3,Mistletoe,100,Get a kiss under the mistletoe.

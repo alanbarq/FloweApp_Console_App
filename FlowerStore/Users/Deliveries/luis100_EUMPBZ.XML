@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase EUMPBZ-->
+<Products>
+  <Product>
+    <ID>002</ID>
+    <Name>Margaritas</Name>
+    <Price>42</Price>
+    <Description>The best margaritas ever.</Description>
+    <Quantity>4</Quantity>
+    <Total>168</Total>
+  </Product>
+  <Product>
+    <ID>XM3</ID>
+    <Name>Mistletoe</Name>
+    <Price>100</Price>
+    <Description>Get a kiss under the mistletoe.</Description>
+    <Quantity>10</Quantity>
+    <Total>1000</Total>
+  </Product>
+  <Product>
+    <ID>101</ID>
+    <Name>Ballons</Name>
+    <Price>40</Price>
+    <Description>Personalized ballons.</Description>
+    <Quantity>2</Quantity>
+    <Total>80</Total>
+  </Product>
+</Products>

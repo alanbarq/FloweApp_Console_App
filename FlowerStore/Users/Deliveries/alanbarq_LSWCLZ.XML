@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase LSWCLZ-->
+<!--DeliveryAddress: Mexico City, Mexico-->
+<Products>
+  <Product>
+    <ID>XM3</ID>
+    <Name>Mistletoe</Name>
+    <Price>1000</Price>
+    <Description>Get a kiss under the mistletoe.</Description>
+    <Quantity>3</Quantity>
+    <Total>3000</Total>
+  </Product>
+  <Product>
+    <ID>XM2</ID>
+    <Name>Christmas tree</Name>
+    <Price>800</Price>
+    <Description>A lovely and natural christmas tree.</Description>
+    <Quantity>5</Quantity>
+    <Total>4000</Total>
+  </Product>
+</Products>

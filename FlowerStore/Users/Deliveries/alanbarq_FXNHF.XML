@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase FXNHF-->
+<Products>
+  <Product>
+    <ID>XM3</ID>
+    <Name>Mistletoe</Name>
+    <Price>1000</Price>
+    <Description>Get a kiss under the mistletoe.</Description>
+    <Quantity>3</Quantity>
+    <Total>3000</Total>
+  </Product>
+  <Product>
+    <ID>002</ID>
+    <Name>Margaritas</Name>
+    <Price>27.5</Price>
+    <Description>The best margaritas ever.</Description>
+    <Quantity>5</Quantity>
+    <Total>137.5</Total>
+  </Product>
+</Products>

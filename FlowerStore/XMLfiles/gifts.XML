@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Products of the stores-->
+<Products>
+  <Product ID="100">
+    <ID>100</ID>
+    <Name>Teddy Bear</Name>
+    <Price>600</Price>
+    <Description>A lovely teddy bear</Description>
+  </Product>
+  <Product ID="101">
+    <ID>101</ID>
+    <Name>Ballons</Name>
+    <Price>40</Price>
+    <Description>Personalized ballons.</Description>
+  </Product>
+  <Product ID="102">
+    <ID>102</ID>
+    <Name>Gift Card</Name>
+    <Price>100</Price>
+    <Description>Buy a gift card for your lovely one.</Description>
+  </Product>
+  <Product ID="GF2">
+    <ID>GF2</ID>
+    <Name>Cookies</Name>
+    <Price>23</Price>
+    <Description>The best cookies of the town</Description>
+  </Product>
+  <Product ID="WN1">
+    <ID>WN1</ID>
+    <Name>Wine</Name>
+    <Price>500</Price>
+    <Description>Wine From Italy</Description>
+  </Product>
+</Products>

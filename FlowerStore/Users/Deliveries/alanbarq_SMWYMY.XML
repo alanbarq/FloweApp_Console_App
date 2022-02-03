@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Purchase SMWYMY-->
+<Products>
+  <Product>
+    <ID>002</ID>
+    <Name>Margaritas</Name>
+    <Price>42</Price>
+    <Description>The best margaritas ever.</Description>
+    <Quantity>5</Quantity>
+    <Total>210</Total>
+  </Product>
+</Products>
